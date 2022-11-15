@@ -2,3 +2,4 @@ test1
 this is a test for git 
 added line 1
 added line 2 
+test2
